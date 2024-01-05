@@ -22,7 +22,7 @@ public class Main {
         System.out.println(Arrays.toString(intArray));
 
         //Combined steps
-        String sArray[] = {"a", "b", "c"};
+        String[] sArray = {"a", "b", "c"};
         System.out.println(Arrays.toString(sArray));
         }
 }
